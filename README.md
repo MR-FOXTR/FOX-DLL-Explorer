@@ -1,6 +1,7 @@
 # 🦊 FOX DLL Explorer
 
 **TR:** Windows DLL/EXE dosyalarını analiz etmek için geliştirilmiş, Python tabanlı masaüstü PE analiz aracıdır.
+
 **EN:** A Python-based desktop PE analysis tool designed to analyze Windows DLL/EXE files.
 
 ---
